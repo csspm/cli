@@ -1,0 +1,26 @@
+{
+  "name": "csspm",
+  "version": "0.0.1",
+  "description": "A CSS Package Manager",
+  "main": "src/index.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csspm/cli.git"
+  },
+  "keywords": [
+    "csspm",
+    "css",
+    "package",
+    "manager"
+  ],
+  "author": "Marais Rossouw <me@maraisr.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csspm/cli/issues"
+  },
+  "homepage": "https://github.com/csspm/cli#readme"
+}
